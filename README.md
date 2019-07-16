@@ -1,7 +1,6 @@
 # **QUESTION**
 
-## Given the following exert from the Declaration of Independence,
-## find the most frequent word that is longer than 5 characters.
+### Given the following exert from the Declaration of Independence, find the most frequent word that is longer than 5 characters.
 
 ``` js
 const declarationOfIndependence = `
